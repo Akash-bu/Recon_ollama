@@ -28,10 +28,14 @@ The model is optimized for **local inference on laptops** using **Ollama**.
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
+## Run directly
 
+```bash
+ollama run hf.co/vanishingMonk/recon_gguf
+```
 ---
 
-# Setup Instructions
+# Setup Instructions (Skip this if you are using the above command)
 
 ## 1. Download the model from Hugging Face
 
@@ -80,6 +84,7 @@ ollama create recon -f Modelfile
 ```bash
 ollama run recon
 ```
+
 ---
 
 ## Example usage
