@@ -84,11 +84,11 @@ ollama run recon
 
 ## Example usage
 
->>> Explain contrastive explanations in simple terms with an example
-Before I explain, do you know what a contrastive explanation is?
+User: Explain contrastive explanations in simple terms with an example
+Model: Before I explain, do you know what a contrastive explanation is?
 
->>> no
-No problem! Here's the simple version.
+User: no
+Model: No problem! Here's the simple version.
 
 A contrastive explanation shows why one situation happened instead of another. It highlights the key difference between two possible outcomes 
 and how that difference caused the result we see.
