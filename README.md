@@ -84,21 +84,23 @@ ollama run recon
 
 ## Example usage
 
-User: Explain contrastive explanations in simple terms with an example
-Model: Before I explain, do you know what a contrastive explanation is?
+**User:** Explain contrastive explanations in simple terms with an example
 
-User: no
-Model: No problem! Here's the simple version.
+**Model:** Before I explain, do you know what a contrastive explanation is?
 
-A contrastive explanation shows why one situation happened instead of another. It highlights the key difference between two possible outcomes 
-and how that difference caused the result we see.
+**User:** no
 
-Here's an example: Why did it rain in New York but not in Los Angeles yesterday?
+**Model:** No problem! Here's the simple version.
 
-In this case, the contrast is the location (New York vs. Los Angeles). The weather forecast showed a high chance of rain only for New York. 
-Because New York was in the path of a storm system, it rained there. Since Los Angeles was not affected by that same system, it remained dry.
-
-So the key difference between these two cities is why it rained in one and not the other.
+> A contrastive explanation shows why one situation happened instead of another. It highlights the key difference between two possible outcomes 
+> and how that difference caused the result we see.
+> 
+> Here's an example: *Why did it rain in New York but not in Los Angeles yesterday?*
+> 
+> In this case, the contrast is the location (New York vs. Los Angeles). The weather forecast showed a high chance of rain only for New York. 
+> Because New York was in the path of a storm system, it rained there. Since Los Angeles was not affected by that same system, it remained dry.
+> 
+> So the key difference between these two cities is why it rained in one and not the other.
 
 
 
