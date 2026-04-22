@@ -51,7 +51,7 @@ huggingface-cli download vanishingMonk/recon_gguf model-recon.gguf --local-dir .
 
 This will download the model into your current directory.
 
-2. Create a Modelfile
+## 2. Create a Modelfile
 
 Create a file named Modelfile:
 
@@ -69,13 +69,13 @@ PARAMETER temperature 0.5
 SYSTEM """You explain contrastive explanations clearly and concisely."""
 ```
 
-3. Build the model in Ollama
+## 3. Build the model in Ollama
 
 ```bash
 ollama create recon -f Modelfile
 ```
 
-4. Run the model
+## 4. Run the model
 
 ```bash
 ollama run recon
