@@ -41,7 +41,7 @@ Install the Hugging Face CLI if you do not already have it:
 pip install -U "huggingface_hub[cli]"
 ```
 
-Or download the .gguf file directly.
+Or download the .gguf file directly at https://huggingface.co/vanishingMonk/recon_gguf/tree/main.
 
 Download the GGUF model:
 
@@ -83,7 +83,23 @@ ollama run recon
 ---
 
 ## Example usage
->>> Explain contrastive explanations in simple terms
+
+>>> Explain contrastive explanations in simple terms with an example
+Before I explain, do you know what a contrastive explanation is?
+
+>>> no
+No problem! Here's the simple version.
+
+A contrastive explanation shows why one situation happened instead of another. It highlights the key difference between two possible outcomes 
+and how that difference caused the result we see.
+
+Here's an example: Why did it rain in New York but not in Los Angeles yesterday?
+
+In this case, the contrast is the location (New York vs. Los Angeles). The weather forecast showed a high chance of rain only for New York. 
+Because New York was in the path of a storm system, it rained there. Since Los Angeles was not affected by that same system, it remained dry.
+
+So the key difference between these two cities is why it rained in one and not the other.
+
 
 
 
