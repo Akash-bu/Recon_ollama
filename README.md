@@ -105,7 +105,7 @@ ollama run hf.co/vanishingMonk/recon_gguf
 ```
 ---
 
-# Setup Instructions (Skip this if you are using the above command)
+# Setup Instructions using Hugging Face (Skip this if you are using the above command)
 
 ## 1. Download the model from Hugging Face
 
