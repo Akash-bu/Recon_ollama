@@ -2,7 +2,7 @@
 
 This document describes how to install and use the **Contrastive Explanations** plugin for Protégé and interacting with custom fined tuned LLM using Ollama.
 
-# Contrastive Explanations Protégé Plugin
+# Protégé Plugin
 
 ## Installation
 
@@ -70,7 +70,7 @@ In the below example, the fact individual **F2F17**, entails the given query **D
 
 <img width="514" height="416" alt="image" src="https://github.com/user-attachments/assets/8422bd32-9f57-4e33-acc5-3f525e2134df" />
 
-# ReCon LLaMA 3.1 (GGUF) — Local Ollama Model
+# LLaMA 3.1 (GGUF) — Local Ollama Model
 
 This repository contains a **GGUF version** of a fine-tuned LLaMA 3.1 model for generating **contrastive explanations**.
 
