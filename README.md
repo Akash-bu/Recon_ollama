@@ -1,6 +1,8 @@
-# Contrastive Explanations Protégé Plugin
+# Contrastive Explanations Usage Documentation
 
-This document describes how to install and use the **Contrastive Explanations** plugin for Protégé.
+This document describes how to install and use the **Contrastive Explanations** plugin for Protégé and interacting with custom fined tuned LLM using Ollama.
+
+# Contrastive Explanations Protégé Plugin
 
 ## Installation
 
